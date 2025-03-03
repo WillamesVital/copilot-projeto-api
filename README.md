@@ -1,6 +1,3 @@
-# Postagem para LinkedIn
-
----
 
 🚀 **Novo Projeto com TypeScript, Express e TypeORM!** 🚀
 
@@ -51,3 +48,4 @@ Este projeto foi uma ótima oportunidade para explorar as capacidades do GitHub 
 #TypeScript #NodeJS #Express #TypeORM #GitHubCopilot #DesenvolvimentoWeb
 
 Sinta-se à vontade para ajustar o texto conforme necessário e adicionar o link para o repositório no GitHub.
+
